@@ -1,0 +1,29 @@
+body{
+  background-color:#CD853F;
+}
+hr{
+  height: 10px;
+  border:none;
+  border-top:solid;
+  border-bottom:solid;
+}
+.hr-dots{
+  border: #CD853F;
+  border-top:20px #000000;
+  border-top-style: dotted;
+  margin: 20px
+}
+font{
+  color: #51050F;
+  font-style:normal;
+  font-family:monospace;
+}
+table{
+  display:contents;
+  align:left;
+}
+h1{
+  color: #134D;
+  background-color:#1211;
+  padding:20px;
+}
